@@ -2,7 +2,6 @@
 - 👀 I’m interested in develop robotics and software
 - 🌱 I’m currently learning code and web desing
 - 💞️ I’m looking to collaborate on web develop 
-- 📫 You can find me in Instagram @re_axl
 
 
 <!---
